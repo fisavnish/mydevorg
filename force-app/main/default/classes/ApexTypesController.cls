@@ -7,7 +7,7 @@ public with sharing class ApexTypesController {
         // The values are based on the data that is defined in the
         // apexImperativeMethodWithComplexParams Lightning web component.
         String response =
-            'You entered "' +
+            'You entered "' + 
             wrapper.someString +
             '" as String, and "' +
             wrapper.someInteger +
